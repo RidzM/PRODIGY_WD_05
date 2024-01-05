@@ -12,7 +12,7 @@ A Simple layout design Weather Aap using Weather API that acn fetch data accordi
 3. JAVASCRIPT
 
 # ACKNOWLEDGMENT 
-This is my Task 04 of my Prodigy Infotech Internship under Web Development 
+This is my Task 05 of my Prodigy Infotech Internship under Web Development 
 
 This Project was inspired by the idea of brushing up my web development skills 
 
